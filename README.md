@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB3159&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DE3163&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jéssica+Simas;I'm+28+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DE3163&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jéssica+Simas;I'm+29+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3> Um pouco sobre mim: </h3>
 <h4> Olá, eu sou a Jéssica Simas 👋 </h4>
 
